@@ -4,6 +4,8 @@ Full-Stack Software Developer with an Associates Degree in IT as well as knowled
 
 ![ICONS](/assets/Icons.png)
 [About Me Video](https://drive.google.com/file/d/1Icvc4k5o00NC28DD_73lVWxZ0LOixGxH/view?usp=sharing)
+
+<hr>
 ![RESUME](https://github.com/JoeAlmanza/Joe-Almanza/blob/main/assets/Resume.PNG?raw=true)
 
 <div>
