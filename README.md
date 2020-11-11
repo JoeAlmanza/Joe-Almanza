@@ -4,7 +4,7 @@ Full-Stack Software Developer with a background in Title and Escrow. I have an A
 
 [About Me](https://drive.google.com/file/d/1Icvc4k5o00NC28DD_73lVWxZ0LOixGxH/view?usp=sharing)
 
-![RESUME](https://github.com/JoeAlmanza/Joe-Almanza/blob/main/assets/Resume.PNG?raw=true)
+![RESUME](/assets/Resume.PNG)
 
 ![ICONS](/assets/Icons.png)
 
