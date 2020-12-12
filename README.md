@@ -1,8 +1,6 @@
 # Joe-Almanza
 
-Full-Stack Software Developer with a background in Title and Escrow. I have an Associates Degree in Information Technology as well as knowledge and experience using JavaScript, Vue.js, Node.js, C#, .Net, MongoDB, Mongoose and MySQL.
-
-[About Me](https://drive.google.com/file/d/1Icvc4k5o00NC28DD_73lVWxZ0LOixGxH/view?usp=sharing)
+Full-Stack Software Developer with a background in Escrow. I have an Associates Degree in Information Technology as well as knowledge and experience using JavaScript, Vue.js, Node.js, C#, .Net, MongoDB, Mongoose and MySQL.
 
 ![RESUME](https://github.com/JoeAlmanza/Joe-Almanza/blob/main/assets/Resume.PNG?raw=true)
 
